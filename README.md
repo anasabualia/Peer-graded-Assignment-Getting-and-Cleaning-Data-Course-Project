@@ -1,4 +1,3 @@
-# Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project
 # Peer-graded Assignment: Getting and Cleaning Data Course Project [August 2021]
 
 # Introduction:
